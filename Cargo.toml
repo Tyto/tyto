@@ -1,0 +1,6 @@
+[package]
+name = "tyto"
+version = "0.1.0"
+authors = ["Florian Pircher <florian@addpixel.net>"]
+
+[dependencies]
